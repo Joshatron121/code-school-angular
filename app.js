@@ -6,7 +6,7 @@
 
 	store.products = [];
 
-    $http.get('code-school-angular/products.json').success(function(data){
+    $http.get('products.json').success(function(data){
     	store.products = data;
     });
   }]);
