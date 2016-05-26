@@ -62,7 +62,7 @@
 			specifications: 'None Yet',
 			images: [
 				{
-					full: 'pentagonal-gem-01-full.jpg',
+					full: 'pentagonal-gem-01-full.JPG',
 					thumb: 'pentagonal-gem-01-thumb.jpg'
 				},
 				{
